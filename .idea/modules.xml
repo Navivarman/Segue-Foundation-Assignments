@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day1-HospitalAppointmentDesk/Day1-HospitalAppointmentDesk.iml" filepath="$PROJECT_DIR$/Day1-HospitalAppointmentDesk/Day1-HospitalAppointmentDesk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2-InsuranceClaimProcessing/Day2-InsuranceClaimProcessing.iml" filepath="$PROJECT_DIR$/Day2-InsuranceClaimProcessing/Day2-InsuranceClaimProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Segue-Foundation-Assignemnts.iml" filepath="$PROJECT_DIR$/.idea/Segue-Foundation-Assignemnts.iml" />
+    </modules>
+  </component>
+</project>
