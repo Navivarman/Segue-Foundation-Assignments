@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Day1-HospitalAppointmentDesk/Day1-HospitalAppointmentDesk.iml" filepath="$PROJECT_DIR$/Day1-HospitalAppointmentDesk/Day1-HospitalAppointmentDesk.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day2-InsuranceClaimProcessing/Day2-InsuranceClaimProcessing.iml" filepath="$PROJECT_DIR$/Day2-InsuranceClaimProcessing/Day2-InsuranceClaimProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day4-BankBranchAccounts/Day4-BankBranchAccounts.iml" filepath="$PROJECT_DIR$/Day4-BankBranchAccounts/Day4-BankBranchAccounts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day6- RetailSalesReporting/Day6- RetailSalesReporting.iml" filepath="$PROJECT_DIR$/Day6- RetailSalesReporting/Day6- RetailSalesReporting.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Segue-Foundation-Assignemnts.iml" filepath="$PROJECT_DIR$/.idea/Segue-Foundation-Assignemnts.iml" />
     </modules>
